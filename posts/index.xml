@@ -4,6 +4,10 @@
     <title>Posts on Kevin&#39;s Space</title>
     <link>http://test.kevinmatt.top/posts/</link>
     <description>Recent content in Posts on Kevin&#39;s Space</description>
+    <image>
+      <url>http://test.kevinmatt.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://test.kevinmatt.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Dec 2022 05:17:40 +0800</lastBuildDate><atom:link href="http://test.kevinmatt.top/posts/index.xml" rel="self" type="application/rss+xml" />
