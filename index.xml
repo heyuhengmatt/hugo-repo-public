@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Kevin&#39;s Space</title>
-    <link>https://www.kevinmatt.top/</link>
+    <link>http://www.kevinmatt.top/</link>
     <description>Recent content on Kevin&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Dec 2022 05:17:40 +0800</lastBuildDate><atom:link href="https://www.kevinmatt.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Dec 2022 05:17:40 +0800</lastBuildDate><atom:link href="http://www.kevinmatt.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HomeLab搭建日记（一）</title>
-      <link>https://www.kevinmatt.top/posts/my-first-post/</link>
+      <link>http://www.kevinmatt.top/posts/my-first-post/</link>
       <pubDate>Sat, 17 Dec 2022 05:17:40 +0800</pubDate>
       
-      <guid>https://www.kevinmatt.top/posts/my-first-post/</guid>
+      <guid>http://www.kevinmatt.top/posts/my-first-post/</guid>
       <description>背景 苦于国内各大流媒体平台长期以来的分辨率、码率不达标导致观影体验不够完美，一直以来有保存高质量的(eg:4K HEVC 10bit)电影以供收藏和回放的需求，于是衍生出了大容量的存储需求。 123
 阶段1：外接机械硬盘盒 ​	在媒体这类侧重于连续读写性能的冷数据存储上，我选择了更低成本的机械硬盘方案，由于自用的itx主机没有加装3.5寸机械硬盘的空间，于是采用了外接硬盘盒的方案；初期使用的硬盘容量为4TB，选用的硬盘是经典的希捷vx007垂直盘
 阶段2：飞来横祸 ​	阶段1中的方案在愉快自然的运作了一年后，在一场意外中戛然而止：​	我的硬盘盒因为我的飞起一脚，在运行过程中惨遭荼毒；Windows当场无法读盘，重新通电后，硬盘发出了磁头敲打的声音；我4TB的高清大片儿们，也随它一起消失在了这个世界上
