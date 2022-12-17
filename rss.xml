@@ -23,10 +23,85 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 17 Dec 2022 23:36:26 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sun, 18 Dec 2022 01:05:38 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://www.kevinmatt.top/rss.xml" />
         
+        
+            <item>
+                <title>HomeLab搭建日记（二）</title>
+                <link>https://www.kevinmatt.top/posts/nas-daily-2/</link>
+                <guid isPermaLink="true">https://www.kevinmatt.top/posts/nas-daily-2/</guid>
+                <pubDate>Sun, 18 Dec 2022 00:55:47 &#43;0800</pubDate>
+                
+                    <author>heyuhengkevin@gmail.com (KevinMatthHe)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;在搭建日记（一）当中，我们已经做好了软件上的规划，接下来我们需要准备搭建所需的硬件组件&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;机器组件&#34;&gt;机器组件&lt;/h2&gt;
+&lt;p&gt;Nas/HomeLab的本质仍然是一台PC电脑，所以我们首先从机器的组件开始考量我们的组合&lt;/p&gt;
+&lt;p&gt;在搭建电脑之前，我们需要了解到一台电脑的机器组成部分：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;组件名&lt;/th&gt;
+&lt;th&gt;用途&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;CPU&lt;/td&gt;
+&lt;td&gt;电脑计算能力的核心&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;主板&lt;/td&gt;
+&lt;td&gt;用于搭载CPU引出的各类通道组件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;内存&lt;/td&gt;
+&lt;td&gt;运行时的数据存储&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;电源&lt;/td&gt;
+&lt;td&gt;供电转换&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;机箱&lt;/td&gt;
+&lt;td&gt;容器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;散热器&lt;/td&gt;
+&lt;td&gt;为机器散热&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;未完待续&lt;/strong&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://www.kevinmatt.top/categories/nas/">nas</category>
+                                
+                            
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>What Is RAID</title>
@@ -70,6 +145,14 @@
                 
                 
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://www.kevinmatt.top/categories/nas/">nas</category>
+                                
+                            
                         
                     
                         
@@ -140,6 +223,14 @@
                 
                 
                     
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://www.kevinmatt.top/categories/nas/">nas</category>
+                                
+                            
                         
                     
                         
@@ -1586,10 +1677,10 @@ $$&lt;/p&gt;
             </item>
         
             <item>
-                <title>使用python绘制传球事件和统计图像</title>
-                <link>https://www.kevinmatt.top/posts/%E4%BD%BF%E7%94%A8python%E7%BB%98%E5%88%B6%E7%90%83%E5%9C%BA/</link>
-                <guid isPermaLink="true">https://www.kevinmatt.top/posts/%E4%BD%BF%E7%94%A8python%E7%BB%98%E5%88%B6%E7%90%83%E5%9C%BA/</guid>
-                <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+                <title>使用Python绘制传球事件和统计图像</title>
+                <link>https://www.kevinmatt.top/posts/python-draw/</link>
+                <guid isPermaLink="true">https://www.kevinmatt.top/posts/python-draw/</guid>
+                <pubDate>Tue, 13 Oct 2020 21:49:00 &#43;0000</pubDate>
                 
                     <author>heyuhengkevin@gmail.com (KevinMatthHe)</author>
                 
