@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">Kevin&#39;s Space</title>
+    <subtitle type="html">Kevin的分享博客</subtitle>
+    <updated>2022-12-17T08:17:53&#43;08:00</updated>
+    <id>http://test.kevinmatt.top/</id>
+    <link rel="alternate" type="text/html" href="http://test.kevinmatt.top/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://test.kevinmatt.top/atom.xml" />
+    <author>
+            <name>kevinmatt</name>
+            <uri>http://test.kevinmatt.top</uri>
+            
+                <email>heyuhengkevin@gmail.com</email>
+            </author>
+    <rights>![CC BY-NC-SA 4.0](https://kevinmatt-1303917904.cos.ap-chengdu.myqcloud.com/img/icp.png)蜀ICP备2021007604号-1</rights>
+    <generator uri="https://gohugo.io/" version="0.108.0">Hugo</generator>
+        <entry>
+            <title type="text">HomeLab搭建日记（一）</title>
+            <link rel="alternate" type="text/html" href="http://test.kevinmatt.top/posts/my-first-post/" />
+            <id>http://test.kevinmatt.top/posts/my-first-post/</id>
+            <updated>2022-12-17T07:17:13&#43;08:00</updated>
+            <published>2022-12-17T05:17:40&#43;08:00</published>
+            <author>
+                    <name>kevinmatt</name>
+                    <uri>https://io-oi.me/</uri>
+                    <email>heyuhengkevin@gmail.com</email>
+                    </author>
+            <rights>![CC BY-NC-SA 4.0](https://kevinmatt-1303917904.cos.ap-chengdu.myqcloud.com/img/icp.png)蜀ICP备2021007604号-1</rights><summary type="html">背景 苦于国内各大流媒体平台长期以来的分辨率、码率不达标导致观影体验不够完美，一直以来有保存高质量的(eg:4K HEVC 10bit)电影以供收藏和回放的需求，于是衍生出……</summary>
+            
+                <content type="html">&lt;h3 id=&#34;背景&#34;&gt;背景&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;苦于国内各大流媒体平台长期以来的分辨率、码率不达标导致观影体验不够完美，一直以来有保存高质量的(eg:4K HEVC 10bit)电影以供收藏和回放的需求，于是衍生出了大容量的存储需求。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;阶段1外接机械硬盘盒&#34;&gt;阶段1：外接机械硬盘盒&lt;/h3&gt;
+&lt;p&gt;​	在媒体这类侧重于&lt;strong&gt;连续读写性能&lt;/strong&gt;的冷数据存储上，我选择了更低成本的机械硬盘方案，由于自用的itx主机没有加装3.5寸机械硬盘的空间，于是采用了外接硬盘盒的方案；初期使用的硬盘容量为4TB，选用的硬盘是经典的&lt;code&gt;希捷vx007&lt;/code&gt;垂直盘&lt;/p&gt;
+&lt;h3 id=&#34;阶段2突遭飞来横祸&#34;&gt;阶段2：突遭飞来横祸&lt;/h3&gt;
+&lt;p&gt;​	阶段1中的方案在愉快自然的运作了一年后，在一场意外中戛然而止：&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kevinmatt-1303917904.cos.ap-chengdu.myqcloud.com/img/QQ%25E5%259B%25BE%25E7%2589%258720221217053914.jpg&#34; alt=&#34;QQ图片20221217053914&#34;&gt;&lt;/p&gt;
+&lt;p&gt;​	我的硬盘盒因为我的飞起一脚，在运行过程中惨遭荼毒；Windows当场无法读盘，重新通电后，硬盘发出了磁头敲打的声音；&lt;strong&gt;我4TB的高清大片儿们，也随它一起消失在了这个世界上&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;​	在惨痛的故事发生之后，咱也没有沉湎在悲痛中无法自拔而一蹶不振，在利用&lt;code&gt;Jellyfin&lt;/code&gt;缓存的元数据列表获取到了所有影片的&lt;code&gt;tmdb id&lt;/code&gt;(tmdb: &lt;a href=&#34;https://www.themoviedb.org/&#34;&gt;https://www.themoviedb.org/&lt;/a&gt;)后，连夜写了一套磁力爬虫来获取所有已经逝去的伙计们&lt;/p&gt;
+&lt;h3 id=&#34;阶段3保障数据安全&#34;&gt;阶段3：保障数据安全&lt;/h3&gt;
+&lt;p&gt;​	算上下载的耗时，为此我花费了2-3天的时间，也只是堪堪抢救回 &lt;strong&gt;不到40%&lt;/strong&gt; 的数据&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;事情已经发生了，我们能做的只有不让这件事重演&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;​	很自然的，我想到了需要考虑&lt;strong&gt;数据安全&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;有别于常规意义上的&lt;code&gt;信息安全&lt;/code&gt;，这里更多是为了避免软硬件的错误而导致设备故障或数据异常的安全&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;​	目前，在数据安全方面，我们可以做的只有两种思路：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;硬件备份：将数据重复存储在不同的设备上&lt;/li&gt;
+&lt;li&gt;Raid方案：使用算法来实现冗余和性能提升&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;​	对于前者而言，直接购买硬件，创建定时任务是很容易实现的方案；&lt;/p&gt;
+&lt;p&gt;​	而对于后者而言，则更多侧重于软件层面的保障(详细的Raid解析可以参考我的【另一篇博客】)&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
