@@ -4,12 +4,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Kevin&#39;s Space</title>
     <subtitle type="html">Kevin的分享博客</subtitle>
-    <updated>2022-12-17T08:25:41&#43;08:00</updated>
+    <updated>2022-12-17T09:12:11&#43;08:00</updated>
     <id>https://www.kevinmatt.top/</id>
     <link rel="alternate" type="text/html" href="https://www.kevinmatt.top/" />
     <link rel="self" type="application/atom&#43;xml" href="https://www.kevinmatt.top/atom.xml" />
     <author>
-            <name>kevinmatthe</name>
+            <name>KevinMatthHe</name>
             <uri>https://www.kevinmatt.top</uri>
             
                 <email>heyuhengkevin@gmail.com</email>
@@ -23,7 +23,7 @@
             <updated>2022-12-17T08:17:54&#43;08:00</updated>
             <published>2022-12-17T05:17:40&#43;08:00</published>
             <author>
-                    <name>kevinmatthe</name>
+                    <name>KevinMatthHe</name>
                     <uri>https://www.kevinmatt.top/</uri>
                     <email>heyuhengkevin@gmail.com</email>
                     </author>
@@ -33,7 +33,7 @@
 &lt;blockquote&gt;
 &lt;p&gt;苦于国内各大流媒体平台长期以来的分辨率、码率不达标导致观影体验不够完美，一直以来有保存高质量的(eg:4K HEVC 10bit)电影以供收藏和回放的需求，于是衍生出了大容量的存储需求。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h3 id=&#34;阶段1外接机械硬盘盒&#34;&gt;阶段1：外接机械硬盘盒&lt;/h3&gt;
+&lt;h3 id=&#34;阶段1外接机械硬盘&#34;&gt;阶段1：外接机械硬盘&lt;/h3&gt;
 &lt;p&gt;​	在媒体这类侧重于&lt;strong&gt;连续读写性能&lt;/strong&gt;的冷数据存储上，我选择了更低成本的机械硬盘方案，由于自用的itx主机没有加装3.5寸机械硬盘的空间，于是采用了外接硬盘盒的方案；初期使用的硬盘容量为4TB，选用的硬盘是经典的&lt;code&gt;希捷vx007&lt;/code&gt;垂直盘&lt;/p&gt;
 &lt;h3 id=&#34;阶段2突遭飞来横祸&#34;&gt;阶段2：突遭飞来横祸&lt;/h3&gt;
 &lt;p&gt;​	阶段1中的方案在愉快自然的运作了一年后，在一场意外中戛然而止：&lt;/p&gt;
