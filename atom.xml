@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">Kevin&#39;s Space</title>
     <subtitle type="html">Kevin的分享博客</subtitle>
-    <updated>2023-01-02T04:06:05&#43;08:00</updated>
+    <updated>2023-01-02T04:06:44&#43;08:00</updated>
     <id>https://www.kevinmatt.top/</id>
     <link rel="alternate" type="text/html" href="https://www.kevinmatt.top/" />
     <link rel="self" type="application/atom&#43;xml" href="https://www.kevinmatt.top/atom.xml" />
@@ -20,17 +20,17 @@
             <title type="text">2022-年终总结</title>
             <link rel="alternate" type="text/html" href="https://www.kevinmatt.top/posts/2022-annual/" />
             <id>https://www.kevinmatt.top/posts/2022-annual/</id>
-            <updated>2023-01-02T03:57:42&#43;08:00</updated>
+            <updated>2023-01-02T04:06:08&#43;08:00</updated>
             <published>2023-01-01T02:47:47&#43;08:00</published>
             <author>
                     <name>KevinMattHe</name>
                     <uri>https://www.kevinmatt.top/</uri>
                     <email>heyuhengkevin@gmail.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">生活是属于每个人自己的感受，不属于任何别人的看法。 ​ ​ 看起来，2022年又走到尾声了... ​ ​ 此时此刻，回头看着这一年发生的故事，内心的情绪也莫名复杂了。 202……</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想再一瞬间变成天上半明半暗的云。我来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望……</summary>
             
                 <content type="html">&lt;blockquote&gt;
-&lt;p&gt;生活是属于每个人自己的感受，不属于任何别人的看法。&lt;/p&gt;
+&lt;p&gt;那一天我二十一岁，在我一生的黄金时代。我有好多奢望。我想爱，想吃，还想再一瞬间变成天上半明半暗的云。我来我才知道，生活就是个缓慢受锤的过程，人一天天老下去，奢望也一天天消失，最后变得像挨了锤的牛一样。可是我过二十一岁生日时没有预见到这一点。我觉得自己会永远生猛下去，什么也锤不了我。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;​	​	看起来，2022年又走到尾声了...&lt;/p&gt;
 &lt;p&gt;​	​	此时此刻，回头看着这一年发生的故事，内心的情绪也莫名复杂了。&lt;/p&gt;
